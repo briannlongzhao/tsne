@@ -1,0 +1,10 @@
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n01558993	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/American robin
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n01983481	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/American lobster
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n02091831	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/Saluki
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n02113799	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/Standard Poodle
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n02326432	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/hare
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n02974003	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/car wheel
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n03530642	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/honeycomb
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n03794056	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/mousetrap
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n04127249	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/safety pin
+/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/ILSVRC2012/train/n04517823	/lab/tmpig8f/u/andy/ImageNet/imagenet_syn/v2_80template_downsampled/vacuum cleaner

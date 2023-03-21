@@ -33,7 +33,7 @@ class FeatureExtractor(nn.Module):
     @torch.no_grad()
     def compute_embedding(self, images: Iterator[np.ndarray]) -> np.ndarray:
         segs = [
-            self.transform(Image.fromarray(image))
+            self.transform(Image.fromarray(image)).to(self.device)
             for image in images
             if image.shape[-1] == 3
         ]
